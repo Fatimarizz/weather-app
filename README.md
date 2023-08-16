@@ -26,13 +26,13 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
 
 ## Description
-
 Index.js Contains the following component 
 - Header (Header Component)
 - Searchbar ( Search bar to Search the city)
 - WeatherDisplay ( Show details of the City including Weather, temperature, etc)
 - WeaherForecast (show 5 days of Weatherforecasting )
 - Footer ( Footer Component)
+- 
 ## Technologies and API
 for API use WeatherApi from https://home.openweathermap.org/api_keys 
 - CSS styling TailwindCSS 
